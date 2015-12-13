@@ -5,7 +5,7 @@
 # Note all code and data are for the current working directory
 # This is my working directory, yours may be different, so I comment this out
 #
-setwd("~/coursera/ExploratoryDataAnalysis/project1")
+# setwd("~/coursera/ExploratoryDataAnalysis/project1")
 #
 # data is from this site: http://archive.ics.uci.edu/ml/
 # data url is: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
